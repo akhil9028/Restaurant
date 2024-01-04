@@ -207,6 +207,7 @@ footer {
   }
   .hero_image img {
     width: 60%;
+    height: 60%;
   }
   .hero_content {
     gap: 10px;
